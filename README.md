@@ -1,3 +1,3 @@
 # EZ's site
 
-#My website
+My website. Tryna figure out how this works
