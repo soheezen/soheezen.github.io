@@ -1,7 +1,9 @@
-theme: jekyll-theme-minimal
+# theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
 title: ez's homepage
 description: Bookmark this to keep an eye on my project updates!
 
-body {
- background: #FFEBEE
-}
