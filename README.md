@@ -1,2 +1,5 @@
 # EZ's site
-My website. Tryna figure out how this works ![equation](https://latex.codecogs.com/svg.image?%5Cinline%20%5Csqrt%7Bx%7D)
+<script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+My website. Tryna figure out how this works \(x^2\)
