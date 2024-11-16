@@ -22,6 +22,7 @@
 <!-- inline config -->
 <script>
   MathJax = {
+    loader: {load: ['[tex]/ams']},
     tex: {
       inlineMath: [   // start/end delimiter pairs for in-line math
         ['$', '$'], 
@@ -38,7 +39,7 @@
         indep: "{\\perp \\!\\!\\! \\perp}",
     	},
       tags: 'ams',
-      packages: {'[-]': ['noundefined', 'autoload'], '[+]': ['enclose']}, 
+      packages: {'[-]': ['noundefined', 'autoload'], '[+]': ['enclose', 'ams']}, 
     },
 
     svg: {
