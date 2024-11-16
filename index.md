@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-I am Ee Zen, currently a maths undergraduate at NUS. Here you can find posts where I write some recreational maths or maths that interests me.
+I am Ee Zen, currently a maths undergraduate at NUS. Here you can find posts where I write some recreational maths or maths that interests me. $\begin{bmatrix}a & b\\c & d\end{bmatrix}$
