@@ -31,7 +31,7 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
-          {{ post.excerpt | strip_html }}
+          {{ post.excerpt | strip_html | truncatewords: 50}}
       </li>
       {%- endfor -%}
     </ul>
