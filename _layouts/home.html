@@ -29,12 +29,9 @@ layout: base
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
-            {{ post.excerpt }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+          {{ post.excerpt | strip_html }}
       </li>
       {%- endfor -%}
     </ul>
