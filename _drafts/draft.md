@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Representation of Symmetric Groups: Basics"
+date: 2024-11-19
 ---
 Groups are amazing algebraic structures, with a whole field of study dedicated to it despite it having only 3 basic axioms to its construction, and it can seen in other parts of maths as well like in algebraic topology and number theory. However, this makes it hard to study some of the properties it might have; we might be having too little to work with. In order to study groups further, we would want to maybe look at them in a more richer environment; this is what homomorphisms allow us to do. This gives us what is known as Representation Theory: the study of representations of structures, such as groups, using other structures, such as vector spaces or algebras, that have more to work it. In fact, one of the mmost fundamental groups that we are interested in studying is the symmetric group $S_n$, as it pops up almost every in both pure and applied mathematics. Here I introduce the basic notions of representation theory with respect to the symmetric group, to show how interesting and beautiful it is. The reference text for this topic is Sagan's Symmetric Group if you would want to dive a bit further.
 
