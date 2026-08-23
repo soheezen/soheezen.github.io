@@ -19,8 +19,8 @@ cluster algebras, algebraic geometry, and related areas.
 
 <div class="home-links">
 <a href="/resume.pdf">CV</a>
-<a href="YOUR-GITHUB">GitHub</a>
-<a href="mailto:YOUR-EMAIL">Email</a>
+<!-- <a href="YOUR-GITHUB">GitHub</a> -->
+<!-- <a href="mailto:YOUR-EMAIL">Email</a> -->
 </div>
 
 </div>
