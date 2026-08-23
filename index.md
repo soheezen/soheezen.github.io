@@ -7,4 +7,43 @@
 #
 layout: home
 ---
-I am Ee Zen, currently a maths undergraduate at NUS. Here you can find posts where I write some recreational maths or maths that interests me. 
+
+<div class="intro">
+
+# Ee Zen
+
+I am a mathematics undergraduate at the National University of Singapore.
+
+My main interests are in algebra, particularly representation theory,
+cluster algebras, algebraic geometry, and related areas.
+
+<div class="home-links">
+<a href="/resume.pdf">CV</a>
+<a href="YOUR-GITHUB">GitHub</a>
+<a href="mailto:YOUR-EMAIL">Email</a>
+</div>
+
+</div>
+
+<div class="home-section">
+
+## Mathematics
+
+I am currently interested in cluster algebras and their connections with
+representation theory and algebraic geometry.
+
+Some things I have been reading about include Richardson varieties,
+Kac–Moody groups, and braid varieties.
+
+</div>
+
+<div class="home-section">
+
+## Writing
+
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+  <span class="post-meta">{{ post.date | date: "%B %Y" }}</span>
+{% endfor %}
+
+</div>
