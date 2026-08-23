@@ -3,7 +3,7 @@ remote_theme: jekyll/minima
 plugins:
    - jekyll-remote-theme
 minima:
-  skin: dark
+  skin: auto
 title: ez's homepage
 description: Bookmark this to keep an eye on my project updates!
 
