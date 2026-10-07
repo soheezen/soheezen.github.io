@@ -8,7 +8,7 @@
 layout: home
 ---
 
-I am a mathematics undergraduate at the National University of Singapore. My main interests are in algebra, particularly representation theory, algebraic geometry, and related areas. Currently working on my final year project where I am investigating cluster algebra structures on Kac-Moody open Richardson varieties.
+I am a mathematics undergraduate at the National University of Singapore. My main interests are in algebra, particularly representation theory, algebraic geometry, combinatorics and related areas. Currently working on my final year project on cluster algebras.
 
 Quick links to some stuff:
 - [CV](/resume.pdf)
