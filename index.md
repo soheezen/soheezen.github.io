@@ -14,3 +14,40 @@ Quick links to some stuff:
 - [CV](/resume.pdf)
 - [UROPS](https://drive.google.com/file/d/1J73So1Dvh-VBzWLDFQH5XLNCacDP2fGo/view?usp=drive_link)
 
+
+## Seminars Attended:
+-	07/10/26: Kyu-Hwan Lee - Use of AI in Mathematics Research: A Case Study of $M_{23}$
+-	09/09/26: Toshihisa Kubo - Recent progress on the F-method and differential symmetry breaking operators for $(GL(3,R), GL(2,R))$
+-	19/08/26: Liron Speyer - Hecke algebras, KLR algebras, and James’s conjecture
+-	11/09/24: Binyong Sun - Some theorems in the representation theory of classical Lie groups
+
+## Math courses taken
+
+**In progress**
+- MA3238 Stochastic Processes I
+- MA4276 Theory of Algebraic Numbers
+
+**Year 3**
+- MA4271 Differential Geometry of Curves and Surfaces
+- MA4229 Fourier Analysis and Approximations
+- MA3211S Complex Analysis I (S)
+- MA2214 Numerical Analysis I
+- MA5218 Representation Theory
+- MA4207 Mathematical Logic
+- MA3220 Ordinary Differential Equations
+- MA2101S Linear Algebra II (S)
+
+**Year 2**
+- MA5204 Commutative and Homological Algebra
+- MA4203 Galois Theory
+- MA3201 Algebra II
+- MA2116 Probability
+- MA3209 Metric and Topological Spaces
+
+**Year 1**
+- MA2202S Algebra I (S)
+- MA2108S Mathematical Analysis I (S)
+- MA2104 Multivariable Calculus
+- MA1100T Basic Discrete Mathematics (T)
+- MA2001 Linear Algebra I
+
