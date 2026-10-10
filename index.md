@@ -15,13 +15,19 @@ Quick links to some stuff:
 - [UROPS](https://drive.google.com/file/d/1J73So1Dvh-VBzWLDFQH5XLNCacDP2fGo/view?usp=drive_link)
 
 
-## Seminars Attended:
+## Projects:
+- UROPS: Representation Theory of Symmetric Groups and Combinatorial Invariance Conjecture (AY24/25)
+  - Semester 1: Studied the representation theory of $S_n$ using Sagan's The Symmetric Group
+  - Semester 2: Studied Hecke algebras, Kazhdan-Lusztig polynomials and the combinatorial invariance conjecture
+  - Provided proofs of propositions (1.6) and (1.7) of Dyer's _Hecke algebras and shellings of Bruhat intervals_ and compiled results relating to combinatorial invariance of $D_{2n}$
+
+## Seminars attended:
 -	07/10/26: Kyu-Hwan Lee - Use of AI in Mathematics Research: A Case Study of $M_{23}$
 -	09/09/26: Toshihisa Kubo - Recent progress on the F-method and differential symmetry breaking operators for $(GL(3,R), GL(2,R))$
 -	19/08/26: Liron Speyer - Hecke algebras, KLR algebras, and James’s conjecture
 -	11/09/24: Binyong Sun - Some theorems in the representation theory of classical Lie groups
 
-## Math courses taken
+## Math courses taken:
 
 **In progress**
 - MA3238 Stochastic Processes I
