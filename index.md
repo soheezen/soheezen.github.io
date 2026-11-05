@@ -22,6 +22,7 @@ Quick links to some stuff:
   - Provided proofs of propositions (1.6) and (1.7) of Dyer's _Hecke algebras and shellings of Bruhat intervals_ and compiled results relating to combinatorial invariance of $D_{2n}$
 
 ## Seminars attended:
+- 04/11/26: Boon Wei Chow - Positive Bruhat atlas on the wonderful compactification of $PSO(2n)/SO(2n-1)$
 -	07/10/26: Kyu-Hwan Lee - Use of AI in Mathematics Research: A Case Study of $M_{23}$
 -	30/09/26: Jack Thorne - Random lattices and rational points on a random curve
 -	09/09/26: Toshihisa Kubo - Recent progress on the F-method and differential symmetry breaking operators for $(GL(3,R), GL(2,R))$
