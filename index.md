@@ -16,12 +16,20 @@ Quick links to some stuff:
 
 
 ## Projects:
+- Final Year Project: Problems on Cluster Algebras (AY26/27, Present)
+  - Studying cluster algebras, Richardson varieties, flag varieties and working on a problem related to them
+
+- Supervised Reading Project (AY25/26 Semester 1)
+  - Studied Weibel's _Homological Algebra_ on derived functors, derived categories and group homology theory
+
 - UROPS: Representation Theory of Symmetric Groups and Combinatorial Invariance Conjecture (AY24/25)
   - Semester 1: Studied the representation theory of $S_n$ using Sagan's The Symmetric Group
   - Semester 2: Studied Hecke algebras, Kazhdan-Lusztig polynomials and the combinatorial invariance conjecture
   - Provided proofs of propositions (1.6) and (1.7) of Dyer's _Hecke algebras and shellings of Bruhat intervals_ and compiled results relating to combinatorial invariance of $D_{2n}$
 
 ## Seminars attended:
+- 11/11/26: Wang Junwu - Strong Artin conjecture for generalized octahedral representations in GL3
+- 11/11/26: Sudarshan Narasimhan - Irreducible characters of $GL_n(F_q)$: Green’s construction
 - 04/11/26: Boon Wei Chow - Positive Bruhat atlas on the wonderful compactification of $PSO(2n)/SO(2n-1)$
 -	07/10/26: Kyu-Hwan Lee - Use of AI in Mathematics Research: A Case Study of $M_{23}$
 -	30/09/26: Jack Thorne - Random lattices and rational points on a random curve
